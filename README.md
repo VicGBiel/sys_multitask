@@ -44,4 +44,4 @@ Compile e grave o firmware no RP2040. Pressione o botão A para alternar os modo
 
 ### Autor
 
-\Victor Gabriel Guimarães Lopes
+\[Victor Gabriel Guimarães Lopes]
